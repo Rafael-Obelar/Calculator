@@ -1,0 +1,21 @@
+.dolar-container{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.button-dolar{
+    width: 160px;
+    padding: 10px;
+    border: 0;
+    border-radius: 30px;
+    background-color: #01031d;
+    color: #FFF;
+}
+.button-dolar:hover{
+    background-color: #19203d;
+}
+#respost{
+    margin-top: 10px;
+}
